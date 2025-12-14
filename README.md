@@ -47,3 +47,4 @@ streamlit run app.py
 ```
 
 ### Deploy
+https://control-4-pp9fvdvhnvgpba9e5sesjv.streamlit.app/
