@@ -33,7 +33,15 @@ El enfoque principal es proporcionar un sistema de **scoring crediticio transpar
 ## Requisitos
 Las dependencias necesarias se encuentran especificadas en el archivo `requirements.txt` dentro del directorio `app/`.
 
+
 Para instalarlas, ejecutar:
 
 ```bash
 pip install -r app/requirements.txt
+```
+
+Para ejecutar la `app`
+```bash
+cd app
+streamlit run app.py
+```

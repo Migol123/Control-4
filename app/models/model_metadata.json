@@ -1,7 +1,7 @@
 {
   "model_name": "credit_scoring_lgbm",
   "version": "1.0.0",
-  "created_at": "2025-12-14 12:34:01",
+  "created_at": "2025-12-14 16:58:50",
   "algorithm": "LightGBM",
   "serialization_formats": [
     "joblib",
@@ -22,7 +22,7 @@
     "cb_person_cred_hist_length"
   ],
   "metrics": {
-    "auc_cv": 0.9482910739594981,
+    "auc_cv": 0.9462590322975629,
     "auc_test": 0.9501857809909886
   },
   "threshold": 0.35,

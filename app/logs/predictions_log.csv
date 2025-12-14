@@ -8,3 +8,4 @@ timestamp,model_file,threshold,proba_default,pred_class,person_age,person_income
 2025-12-14 11:28:09,model_credit_scoring.joblib,0.35,0.2834237841703169,0,2.0,0.0,RENT,0.0,,,6.0,3.0,0.0,,0.0
 2025-12-14 11:28:54,model_credit_scoring.joblib,0.35,0.2834237841703169,0,0.0,0.0,,0.0,,,0.0,0.0,0.0,,0.0
 2025-12-14 11:55:35,model_credit_scoring.joblib,0.35,0.9331199710406428,1,0.0,0.0,RENT,0.0,EDUCATION,E,0.0,0.0,0.0,N,0.0
+2025-12-14 15:52:24,model.joblib,0.35,0.04283532857316892,0,30.0,0.0,OWN,0.0,EDUCATION,C,0.0,0.0,0.0,Y,0.0
