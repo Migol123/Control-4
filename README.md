@@ -45,3 +45,5 @@ Para ejecutar la `app`
 cd app
 streamlit run app.py
 ```
+
+### Deploy
